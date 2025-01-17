@@ -21,7 +21,7 @@ Aurora Nexus belongs to humanity. By making this framework open source, we invit
 - **Governments**: Customize the platform for national or regional needs.
 - **Visionaries**: Innovate new use cases to address pressing challenges.
 ## Documentation
-- [Aurora Nexus Manifesto](aurora-nexus-manifesto.pdf): The blueprint for this initiative.
+- [Aurora Nexus Manifesto](aurora-nexus-manifesto.pdf.pdf): The blueprint for this initiative.
 Acknowledgments
 We thank the global blockchain community for inspiring this initiative.
 Special gratitude to the founders and pioneers of blockchain technology, whose vision laid the groundwork for decentralization and innovation:
